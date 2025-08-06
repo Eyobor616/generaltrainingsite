@@ -1,2 +1,2 @@
-# generaltrainingsite
-Info about all computer based course offerings
+# devtonic-site
+Info for starters
